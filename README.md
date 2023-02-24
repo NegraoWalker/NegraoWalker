@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ba01ff&height=180&section=header&text=Walker Esteves Negrão&fontSize=30&fontColor=b6ff00&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+WALKER+ESTEVES+NEGRÃO;I'M+29+YEARS+OLD;I'M+FROM+LONDRINA+PR;I'M+FULL+STACK+WEB+DEVELOPER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+WALKER+ESTEVES+NEGRÃO;I'M+30+YEARS+OLD;I'M+FROM+LONDRINA+PR;I'M+FULL+STACK+WEB+DEVELOPER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NegraoWalker&show_icons=true&count_private=true&hide_border=true&title_color=b6ff00&icon_color=b6ff00&text_color=c9d1d9&bg_color=0d1117" alt="Walker Esteves Negrão github stats" /> 
@@ -16,10 +16,11 @@
 <br><br>
 
   ### Main skills:
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+  
   
   ### Frameworks and Libraries:
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
